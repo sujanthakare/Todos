@@ -1,3 +1,3 @@
 Todos
 =====
-simple firefox applicaion with jquery and simple javascript without database
+simple firefox applicaion with AngularJs and bootstrap without database
